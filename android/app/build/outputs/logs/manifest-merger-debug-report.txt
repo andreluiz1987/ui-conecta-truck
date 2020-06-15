@@ -1,0 +1,301 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:1:1-32:12
+MERGED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:1:1-32:12
+MERGED from [:@react-native-community_geolocation] C:\Users\cassi\Desktop\uber-clone-master\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] C:\Users\cassi\Desktop\uber-clone-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\015a8aab3b36f5e8a0f0f9dbbc5be9fb\AndroidManifest.xml:16:1-21:12
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\a3c8af693d38547987f5f7f466d52e65\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\4f6319843f24a482339bab60cc4fb115\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\8c4b75215084a6cea80e9029a13cc235\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\85a5db65d7d21b61e928388a025445a1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1f56fd56008d7253ed99ebb62c47b07f\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\ef72c9b4eeae8ca7fdfa0d49b6457393\AndroidManifest.xml:16:1-23:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1fbb145c4d33c32549e90d73f8d067bf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\ad092a23b22d71700d23972b97ef9bff\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\d07bceae52cac5d60fd2c3ff247d38be\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\f8f2d0361fa38a337ad3628a73eeb2bf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\c41c92bf1af26964792b26d3cf0485a9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\6ea634f44363b7d890233382ac3de623\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\9884819e50a2011f4de5ad34b502890f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\2a85c0a0a1da7e28d08f5ba3b0c1a36c\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\65feaa810a6cebef4f0d9c583d0a8d71\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\15922430900ed6e435f81fcd572e969a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\5018cbd36c556b704f93251088f2c5ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\89c419ac508d4589aa6e7cd5492fd50a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\a048cf8fc48186446d112864fcc8d040\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\12de9c6a060e9f035b06cdb24e7f3485\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\373379419adcfefa6f5c3e31640e043b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\2d7a569d6715b6c076d6db5794bb4d18\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\03b7f04cd521cf08d04b83fb60c3127f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\88886308e90ab11c32e96ba508880487\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\de4320e204d44aa70f13cbe57225a20d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\5f41524b868ac755dc2fadd82eed2e8d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\10e96afa60347c1891de1f3d689c2bad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\5522ebb6c71ed973b968c153b872d980\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\df845221955c766ff29811f4e2ab8a15\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\718dc51e9dc13c3fd5a1a38ef12309d6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1cc30933c4d90db96227264c5d2c0c17\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\476492dd0ceb2f6ac53e788812dd907b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\15e260bfeca1c06cfac4ea7ad7155379\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\4e56cec4a0756b9e05f4fcefb41945b5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\179875841a8cd2e4aae565ff6700009b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\76e6d1ad239d694b21f938f7739e3087\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\79b52c40bebc9157f6ca9997a8adcd9f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\b16fcf7ad114c38675768653565468f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\3afe5d875a484fb8a4bac7c76ebca6ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\663787e17422da54e1f8c4a755d2aa44\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\38c9e9dab3fab895a94d4b4e631e47f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\116db8f02c2dd21858aaa4f2f2324525\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:2:3-21
+		INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:2:3-21
+		INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:1:1-32:12
+		INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:1:1-32:12
+		INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] C:\Users\cassi\Desktop\uber-clone-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] C:\Users\cassi\Desktop\uber-clone-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:7:5-30:19
+MERGED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:7:5-30:19
+MERGED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:7:5-30:19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\015a8aab3b36f5e8a0f0f9dbbc5be9fb\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\015a8aab3b36f5e8a0f0f9dbbc5be9fb\AndroidManifest.xml:18:5-20:19
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\a3c8af693d38547987f5f7f466d52e65\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\a3c8af693d38547987f5f7f466d52e65\AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\85a5db65d7d21b61e928388a025445a1\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\85a5db65d7d21b61e928388a025445a1\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1f56fd56008d7253ed99ebb62c47b07f\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1f56fd56008d7253ed99ebb62c47b07f\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\ef72c9b4eeae8ca7fdfa0d49b6457393\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\ef72c9b4eeae8ca7fdfa0d49b6457393\AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\2a85c0a0a1da7e28d08f5ba3b0c1a36c\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\2a85c0a0a1da7e28d08f5ba3b0c1a36c\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\718dc51e9dc13c3fd5a1a38ef12309d6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\718dc51e9dc13c3fd5a1a38ef12309d6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1cc30933c4d90db96227264c5d2c0c17\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1cc30933c4d90db96227264c5d2c0c17\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\718dc51e9dc13c3fd5a1a38ef12309d6\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:9:7-39
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:9:7-39
+	tools:ignore
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:11:7-52
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:11:7-52
+	tools:targetApi
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:10:7-41
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:12:7-34
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:13:7-38
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:8:7-38
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:8:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:15:7-17:68
+	android:value
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:17:11-66
+	android:name
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:16:11-56
+activity#com.uber.MainActivity
+ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:20:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml:29:17-81
+uses-sdk
+INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:@react-native-community_geolocation] C:\Users\cassi\Desktop\uber-clone-master\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] C:\Users\cassi\Desktop\uber-clone-master\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\Users\cassi\Desktop\uber-clone-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\Users\cassi\Desktop\uber-clone-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\015a8aab3b36f5e8a0f0f9dbbc5be9fb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\015a8aab3b36f5e8a0f0f9dbbc5be9fb\AndroidManifest.xml:17:5-42
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\a3c8af693d38547987f5f7f466d52e65\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\a3c8af693d38547987f5f7f466d52e65\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\4f6319843f24a482339bab60cc4fb115\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\4f6319843f24a482339bab60cc4fb115\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\8c4b75215084a6cea80e9029a13cc235\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\8c4b75215084a6cea80e9029a13cc235\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\85a5db65d7d21b61e928388a025445a1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\85a5db65d7d21b61e928388a025445a1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1f56fd56008d7253ed99ebb62c47b07f\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1f56fd56008d7253ed99ebb62c47b07f\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\ef72c9b4eeae8ca7fdfa0d49b6457393\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\ef72c9b4eeae8ca7fdfa0d49b6457393\AndroidManifest.xml:17:5-42
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1fbb145c4d33c32549e90d73f8d067bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1fbb145c4d33c32549e90d73f8d067bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\ad092a23b22d71700d23972b97ef9bff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\ad092a23b22d71700d23972b97ef9bff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\d07bceae52cac5d60fd2c3ff247d38be\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\d07bceae52cac5d60fd2c3ff247d38be\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\f8f2d0361fa38a337ad3628a73eeb2bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\f8f2d0361fa38a337ad3628a73eeb2bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\c41c92bf1af26964792b26d3cf0485a9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\c41c92bf1af26964792b26d3cf0485a9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\6ea634f44363b7d890233382ac3de623\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\6ea634f44363b7d890233382ac3de623\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\9884819e50a2011f4de5ad34b502890f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\9884819e50a2011f4de5ad34b502890f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\2a85c0a0a1da7e28d08f5ba3b0c1a36c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\2a85c0a0a1da7e28d08f5ba3b0c1a36c\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\65feaa810a6cebef4f0d9c583d0a8d71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\65feaa810a6cebef4f0d9c583d0a8d71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\15922430900ed6e435f81fcd572e969a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\15922430900ed6e435f81fcd572e969a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\5018cbd36c556b704f93251088f2c5ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\5018cbd36c556b704f93251088f2c5ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\89c419ac508d4589aa6e7cd5492fd50a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\89c419ac508d4589aa6e7cd5492fd50a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\a048cf8fc48186446d112864fcc8d040\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\a048cf8fc48186446d112864fcc8d040\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\12de9c6a060e9f035b06cdb24e7f3485\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\12de9c6a060e9f035b06cdb24e7f3485\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\373379419adcfefa6f5c3e31640e043b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\373379419adcfefa6f5c3e31640e043b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\2d7a569d6715b6c076d6db5794bb4d18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\2d7a569d6715b6c076d6db5794bb4d18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\03b7f04cd521cf08d04b83fb60c3127f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\03b7f04cd521cf08d04b83fb60c3127f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\88886308e90ab11c32e96ba508880487\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\88886308e90ab11c32e96ba508880487\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\de4320e204d44aa70f13cbe57225a20d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\de4320e204d44aa70f13cbe57225a20d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\5f41524b868ac755dc2fadd82eed2e8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\5f41524b868ac755dc2fadd82eed2e8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\10e96afa60347c1891de1f3d689c2bad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\10e96afa60347c1891de1f3d689c2bad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\5522ebb6c71ed973b968c153b872d980\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\5522ebb6c71ed973b968c153b872d980\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\df845221955c766ff29811f4e2ab8a15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\df845221955c766ff29811f4e2ab8a15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\718dc51e9dc13c3fd5a1a38ef12309d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\718dc51e9dc13c3fd5a1a38ef12309d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1cc30933c4d90db96227264c5d2c0c17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\1cc30933c4d90db96227264c5d2c0c17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\476492dd0ceb2f6ac53e788812dd907b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\476492dd0ceb2f6ac53e788812dd907b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\15e260bfeca1c06cfac4ea7ad7155379\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\15e260bfeca1c06cfac4ea7ad7155379\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\4e56cec4a0756b9e05f4fcefb41945b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\4e56cec4a0756b9e05f4fcefb41945b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\179875841a8cd2e4aae565ff6700009b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\179875841a8cd2e4aae565ff6700009b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\76e6d1ad239d694b21f938f7739e3087\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\76e6d1ad239d694b21f938f7739e3087\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\79b52c40bebc9157f6ca9997a8adcd9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\79b52c40bebc9157f6ca9997a8adcd9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\b16fcf7ad114c38675768653565468f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\b16fcf7ad114c38675768653565468f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\3afe5d875a484fb8a4bac7c76ebca6ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\3afe5d875a484fb8a4bac7c76ebca6ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\663787e17422da54e1f8c4a755d2aa44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\663787e17422da54e1f8c4a755d2aa44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\38c9e9dab3fab895a94d4b4e631e47f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\38c9e9dab3fab895a94d4b4e631e47f0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\116db8f02c2dd21858aaa4f2f2324525\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\116db8f02c2dd21858aaa4f2f2324525\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\cassi\Desktop\uber-clone-master\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] C:\Users\cassi\Desktop\uber-clone-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] C:\Users\cassi\Desktop\uber-clone-master\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\210a2fdf93b06a7ae74c9bee1a1012e4\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\015a8aab3b36f5e8a0f0f9dbbc5be9fb\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\015a8aab3b36f5e8a0f0f9dbbc5be9fb\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\015a8aab3b36f5e8a0f0f9dbbc5be9fb\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\015a8aab3b36f5e8a0f0f9dbbc5be9fb\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\85a5db65d7d21b61e928388a025445a1\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\ef72c9b4eeae8ca7fdfa0d49b6457393\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\ef72c9b4eeae8ca7fdfa0d49b6457393\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\85a5db65d7d21b61e928388a025445a1\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\cassi\.gradle\caches\transforms-2\files-2.1\85a5db65d7d21b61e928388a025445a1\AndroidManifest.xml:9:13-58
